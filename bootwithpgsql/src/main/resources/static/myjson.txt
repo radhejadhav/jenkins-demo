@@ -1,0 +1,6 @@
+{
+    "id":12,
+    "name":"Radheshyam",
+    "email":"radhejadha21@gmail.com",
+    "phone":["9834963222","8806864674"]
+}
